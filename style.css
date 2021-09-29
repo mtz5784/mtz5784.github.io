@@ -1,4 +1,15 @@
 body{
-     background-color: black;
+     background-image: url("background.jpg");
+     background-size: 100%;
      color: white;
+}
+
+p{
+     font-size: 20px;
+}
+ul{
+     font-size: 20px;
+}
+li{
+     color:white
 }
